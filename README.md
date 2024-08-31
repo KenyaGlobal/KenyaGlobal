@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KenyaGlobal
 - 👀 I’m interested in ...CS50
-- 🌱 I’m currently learning ...Computer Science 
-- 💞️ I’m looking to collaborate on ... Mentoring for Primary,Secondary and Higher ED Students
+- 🌱 I’m currently teaching ...Computer Science 
+- 💞️ I’m looking to collaborate on ...All Things AI! 
 - 📫 How to reach me ... kbj@j-softech.com
 
 <!---
